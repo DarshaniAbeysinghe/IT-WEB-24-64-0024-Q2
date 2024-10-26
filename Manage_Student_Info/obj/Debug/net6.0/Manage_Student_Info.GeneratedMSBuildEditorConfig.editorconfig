@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Manage_Student_Info
+build_property.RootNamespace = Manage_Student_Info
+build_property.ProjectDir = F:\Web_Assignment\ASP.NET\Manage_Student_Info\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Web_Assignment\ASP.NET\Manage_Student_Info
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Course_Info/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X0NvdXJzZV9JbmZvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Course_Info/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X0NvdXJzZV9JbmZvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Course_Info/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X0NvdXJzZV9JbmZvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Course_Info/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X0NvdXJzZV9JbmZvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Course_Info/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X0NvdXJzZV9JbmZvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Student_Info/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X1N0dWRlbnRfSW5mb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Student_Info/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X1N0dWRlbnRfSW5mb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Student_Info/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X1N0dWRlbnRfSW5mb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Student_Info/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X1N0dWRlbnRfSW5mb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/New_Student_Info/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3X1N0dWRlbnRfSW5mb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/Shared/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Web_Assignment/ASP.NET/Manage_Student_Info/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-39eq1y97yl
